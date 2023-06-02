@@ -6,11 +6,13 @@ Quine は 自身のソースコードを出力するプログラムです.
 
 出力先を HTTPサーバーのレスポンスにしたのが, この http-server-quine です.
 
+うまくいかず一旦諦めました
+
 # 実装言語
 
-| language name | command                         |
-| ------------- | ------------------------------- |
-| dart          | `dart run ./dart/bin/dart.dart` |
+| language name | command                                                  |
+| ------------- | -------------------------------------------------------- |
+| dart          | `dart run ./dart/bin/dart.dart` (やっぱうまくいなかない) |
 
 # 参加方法
 
